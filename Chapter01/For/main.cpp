@@ -36,4 +36,5 @@ int main()
 // practicing random number generation using for loop
 //first time watching 'static' and static const double
 
-//also first time 'srand'
+//also first time 'srand', so I did not understand 'static_cast', 'srand', and a lot of other cases 
+//I did not understadn this code, I need to revise
