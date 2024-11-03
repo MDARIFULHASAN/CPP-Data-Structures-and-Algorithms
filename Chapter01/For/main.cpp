@@ -32,3 +32,5 @@ int main()
 
     return 0;
 }
+// practicing 'for' loop - i am very bad at using void and struct..
+// practicing random number generation using for loop
