@@ -34,3 +34,6 @@ int main()
 }
 // practicing 'for' loop - i am very bad at using void and struct..
 // practicing random number generation using for loop
+//first time watching 'static' and static const double
+
+//also first time 'srand'
