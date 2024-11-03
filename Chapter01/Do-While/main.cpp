@@ -54,7 +54,23 @@ int main()
     }
     while(userChar != 'Y' && userChar != 'y');
 
+    // to comment out everything in VS Code al together press Windows: Ctrl + K + C. Mac: Command + K + C.
+
+    // // Run the WHILE loop
+    // while(userNumber != computerNumber)
+    // {
+    //     cout << userNumber << " is ";
+    //     if(userNumber > computerNumber)
+    //         cout << "greater";
+    //     else
+    //         cout << "lower";
+    //     cout << " than computer's number" << endl;
+    //     cout << "Choose another number: ";
+    //     cin >> userNumber;
+    // }
+
     cout << "Yeeaayy.. I've got your number." << endl;
     return 0;
 }
-// practicing Do-While loop, which is pretty much same as While loop!
+// // practicing Do-While loop, which is pretty much same as While loop!
+
