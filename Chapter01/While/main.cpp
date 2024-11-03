@@ -17,6 +17,8 @@ int GenerateRandomNumber(int min, int max)
     return min + static_cast<int>(
         (max - min + 1) * (rand() * fraction));
 }
+// I forgot the difference between 'rand' and 'srand'
+// I think the "GenerarteRandomNumber" is same as before
 
 int main()
 {
@@ -48,3 +50,4 @@ int main()
     cout << "Yeeaayy.. You've got the number." << endl;
     return 0;
 }
+// practicing while loop in c++
